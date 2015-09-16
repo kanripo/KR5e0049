@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 西雲集
+#+DATE: 2015-08-29 02:09:27
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN 0
+
+
