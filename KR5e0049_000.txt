@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 西雲集
-#+DATE: 2015-08-29 02:09:27
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:09:26.175150
+#+TITLE: 西雲雪
+#+PROPERTY: DZID  DZ1147
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，25—532 三卷 太平部
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
